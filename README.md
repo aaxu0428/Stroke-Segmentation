@@ -1,5 +1,5 @@
 # Acute Stroke Segmentation from DWI using FCN-8 and U-Net
-By Liang Xu, Angela Xu and Katharina Brown  
+By Liang Xu and Angela Xu 
 
 Stroke is the second-leading cause of death worldwide, but manual detection of acute stroke lesions is a labor-intensive and costly process. This project applies deep learning techniques, specifically two-dimensional U-Net and FCN-8 models, to segmentation of stroke lesions on diffusion-weighted MRI (DWI) images. 
 
